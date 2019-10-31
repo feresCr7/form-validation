@@ -1,0 +1,47 @@
+.all-boxes{
+    display: flex;
+    align-items: center;
+    flex-direction: column;  
+    width: 100%;
+    height: 650px;
+    background:#4e4a5b ;
+    font-family: 'open sans', sans-serif;
+    font-weight: 300;
+    
+}
+button{
+    width: 320px;
+    margin: 1%;
+    height: 50px;
+    background: rgb(40, 43, 62)  ;
+    color: white;
+    border-radius: 5px;
+    border: transparent;
+    
+    
+    
+}
+
+
+
+
+
+
+label{
+    
+    
+    color: white;
+    padding-right: 18%;
+    
+}
+input, textarea{
+    width: 22%;
+    padding: 11px;
+    margin: 12px;
+    background: rgb(40, 43, 62);
+    border-radius: 5px;
+    border:solid transparent;
+    color: white;
+}
+
+
